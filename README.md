@@ -39,7 +39,7 @@
 | Rizky Saputra            | 👔 Project Manager        | [Soon]()                                                              |
 | M. Najuan Amin           | 🛠️ Backend Engineer       | [Soon]()                                                              |
 | M. Abdillah Hidayat      | 🧪 Backend & UI Helper    | [Soon]()                                                              |
-| M. Ridha Maulana         | 🧮 Database Engineer      | [Soon]()                                                              |
+| M. Ridha Maulana         | 🧮 Database Engineer      | [LinkedIn](https://www.linkedin.com/in/muhammadridhamaulana)                  |                                            |
 | Trindah Agustina         | 💻 Web Developer          | [Soon]()                                                              |
 | Ismatul Hawa             | 💻 Web Developer          | [Soon]()                                                              |
 | Naila Hafidah            | 🎨 UI/UX Designer         | [Soon]()                                                              |
