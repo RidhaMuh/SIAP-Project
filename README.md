@@ -1,6 +1,6 @@
 # 👨‍⚕️ SIAP-Project – Sistem Informasi Apotik Rumah Sakit
 
-![SIAP Banner](https://i.pinimg.com/736x/4e/05/41/4e054127c7b7c5db50a1857845cae312.jpg)
+![SIAP Banner](![apotek-01-01](https://github.com/user-attachments/assets/a3c4f938-9394-4f4d-9a64-ce565cdad540))
 
 **SIAP (Sistem Informasi Apotik)** adalah solusi digital berbasis **Laravel** yang dirancang untuk mendukung pengelolaan apotik rumah sakit secara modern dan efisien. Proyek ini dibangun dengan fokus pada:
 
